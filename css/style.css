@@ -1,0 +1,12 @@
+.body1{
+    background-color: rgb(189, 189, 189);
+    width: 400px;
+    height: 290px;
+   
+}
+.fa-solid{
+   padding-left: 150px;
+}
+h1,p{
+    text-align: center;
+}
