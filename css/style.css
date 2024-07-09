@@ -1,5 +1,6 @@
 .container{
     background-color: rgb(186, 210, 221);
+    width: 400px;
     align-items: center;
     text-align: center;
     margin: 20px;
