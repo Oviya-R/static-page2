@@ -1,12 +1,9 @@
-.body1{
-    background-color: rgb(189, 189, 189);
-    width: 400px;
-    height: 290px;
-   
-}
-.fa-solid{
-   padding-left: 150px;
-}
-h1,p{
+.container{
+    background-color: rgb(186, 210, 221);
+    align-items: center;
     text-align: center;
+    margin: 20px;
+}
+h4{
+    margin: 20px;
 }
